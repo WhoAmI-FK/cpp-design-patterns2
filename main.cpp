@@ -1,5 +1,5 @@
 #include "Prototype.h"
-
+/*
 int main()
 {
 	proto::Sheep* sheep0 = new proto::Sheep();
@@ -29,3 +29,4 @@ int main()
 	delete cow0;
 	return 0;
 }
+*/

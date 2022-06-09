@@ -1,5 +1,5 @@
 #include "Factory.h"
-
+/*
 int main()
 {
 	factory::CoffeeMakerFactory coffeeMachine;
@@ -9,3 +9,4 @@ int main()
 
 	return 0;
 }
+*/
